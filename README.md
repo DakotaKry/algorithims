@@ -5,7 +5,7 @@ This repo serves as merely a public playground that I can remotely access if nee
 License is MIT
 
 ## BT Weight Max
-Bianry Tree Max Weight
+Bianary Tree Max Weight
 
 Given a binary tree where each node represents a 'weight'
 this algo finds the maximum non-adjecent nodes sum
