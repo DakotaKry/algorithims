@@ -1,7 +1,10 @@
-# algorithims
-Random algos
+# Algorithims
+All my random algorithms I have decided to write out and get working. They are generally easily runable with a test case, however I do not claim any of theses to be 100% correct.
+This repo serves as merely a public playground that I can remotely access if need be.
 
-##BT Weight Max
+License is MIT
+
+## BT Weight Max
 Bianry Tree Max Weight
 
 Given a binary tree where each node represents a 'weight'
@@ -11,19 +14,19 @@ This algo cosiders nodes on the same path as adjecent (rather than just sharing 
 thus is kinda useless
 
 
-##Binomial
+## Binomial
 Calculates the amount of shortest paths between two points in a 2D plane.
 
 you can only move vertically or horizontally to the next discrete point. (0,0) -> (0,1).
 This is called Binomial since the probably is really just calcualting Pascals triangle/Binomial Coeficents.
 
-##Fib
+## Fib
 Dynamic Programe for calcuating a certain fibonacci 
 
-##QuickSort
+## QuickSort
 Its quick sort
 
-##Hamilton_Path
+## Hamilton_Path
 Given a complete directional graph (sometimes refered to as a tournament graph though not like the real word one), this algorithm finds a Hamiltion path.
 A Hamiltion path is just a path that goes to everynode and only once.
 
