@@ -18,7 +18,7 @@ thus is kinda useless
 Calculates the amount of shortest paths between two points in a 2D plane.
 
 you can only move vertically or horizontally to the next discrete point. (0,0) -> (0,1).
-This is called Binomial since the probably is really just calcualting Pascals triangle/Binomial Coeficents.
+This is called Binomial since the problem is really just calcualting Pascals triangle/Binomial Coeficents.
 
 ## Fib
 Dynamic Programe for calcuating a certain fibonacci 
